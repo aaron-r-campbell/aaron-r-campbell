@@ -1,7 +1,7 @@
 ### Hi there, I'm Aaron!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-r-campbell/)
-[![Website](https://img.shields.io/badge/-Website-2f788b)](https://aaron.keydesign.com/)
+[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://aaron.keydesign.com/)
 
 I am a software engineering student who is always working on some side project in addition to my studies.
 <!-- <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" /> -->
