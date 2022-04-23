@@ -1,4 +1,40 @@
-### Hi there 👋
+### Hi there, I'm Aaron!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-r-campbell/)
+[![Website](https://img.shields.io/badge/-Website-2f788b)](https://aaron.keydesign.com/)
+
+I am a software engineering student who is always working on some side project in addition to my studies.
+<!-- <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" /> -->
+
+**What I'm working on:**
+- During the 5th school period I'm taking a class in Programming parallel computers.
+- My current most active projects are the Joke-Book webapp and the FYT webapp.
+- Currently employed as a part-time software engineer at [Cult Security](https://cultsecurity.com/) helping with the [CyberCoach](https://www.cybercoachbot.com/) project.
+
+**What I've been doing this week:** 
+
+<!--START_SECTION:waka-->
+
+```text
+From: 16 April 2022 - To: 23 April 2022
+
+C++        5 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.92 %
+Markdown   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
+CMake      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
+C          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
+Makefile   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %
+Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %
+```
+
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
 
 <!--
 **aaron-r-campbell/aaron-r-campbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
