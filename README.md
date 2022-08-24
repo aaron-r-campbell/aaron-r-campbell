@@ -7,7 +7,7 @@ I am a software engineering student who is always working on some side project i
 <!-- <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" /> -->
 
 **What I'm working on:**
-- During the 5th school period I'm taking a class in Programming parallel computers.
+- Working on the Full stack web development course at fullstackopen.com/en
 - My current most active projects are the Joke-Book webapp and the FYT webapp.
 - Currently employed as a part-time software engineer at [Cult Security](https://cultsecurity.com/) helping with the [CyberCoach](https://www.cybercoachbot.com/) project.
 
