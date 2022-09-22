@@ -16,7 +16,7 @@ I am a software engineering student who is always working on some side project i
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 14 September 2022 - To: 21 September 2022
 
 TeX          2 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.60 %
 Scala        1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.48 %
