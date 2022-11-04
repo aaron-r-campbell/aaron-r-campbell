@@ -16,7 +16,9 @@ I am a software engineering student who is always working on some side project i
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 October 2022 - To: 03 November 2022
+
+Other        16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.77 %
 ```
 
 <!--END_SECTION:waka-->
