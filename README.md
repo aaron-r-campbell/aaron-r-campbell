@@ -16,7 +16,7 @@ I am a software engineering student who is always working on some side project i
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
 C#           24 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.60 %
 Other        18 mins         ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.33 %
