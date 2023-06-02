@@ -15,7 +15,7 @@ I am a software engineering student who is always working on some side project i
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Python   2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.61 %
