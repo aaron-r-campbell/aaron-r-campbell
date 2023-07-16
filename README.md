@@ -4,14 +4,10 @@
 [![Website](https://img.shields.io/badge/-Website-blueviolet)](http://aaron.keydesign.com/)
 
 I am a software engineering student who is always working on some side project in addition to my studies.
-<!-- <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" /> -->
 
 **What I'm working on:**
-- Working on the Full stack web development course at fullstackopen.com/en
-- My current most active projects are the Joke-Book webapp and the FYT webapp.
-- Currently employed as a part-time software engineer at [Cult Security](https://cultsecurity.com/) helping with the [CyberCoach](https://www.cybercoachbot.com/) project.
-
-**What I've been doing this week:** 
+- [Masters in Security and Cloud Computing at Aalto University](https://www.aalto.fi/en/study-options/security-and-cloud-computing-computer-communication-and-information-sciences-master-of-science). (2023-2025)
+- Currently employed as a part-time software engineer at [Cult Security](https://cultsecurity.com/) helping with the [CyberCoach](https://www.cybercoachbot.com/) project. (2022-Present)
 
 <!--START_SECTION:waka-->
 
@@ -26,26 +22,3 @@ JSON       1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
-
-<!--
-**aaron-r-campbell/aaron-r-campbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
