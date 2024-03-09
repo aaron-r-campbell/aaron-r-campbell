@@ -12,7 +12,7 @@ I am a software engineering student who is always working on some side project i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
 Bash                       4 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.57 %
 Markdown                   1 hr 27 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.86 %
